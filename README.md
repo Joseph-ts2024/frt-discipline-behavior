@@ -13,3 +13,14 @@ Usage Guide
 2. Place the survey dataset in the data/ folder.
 3. Open and run the notebook files in the notebooks/ folder to perform data analysis and display the results.
 4. Follow the instructions within the notebook to preprocess the data, perform statistical analysis, and visualize the findings.
+
+## Project Structure
+- `data/`: Contains the dataset used for the analysis.
+- `src/`: Contains the source code for data analysis.
+- `data_description.md`: Provides detailed information about the dataset.
+
+## How to Run the Analysis
+1. Place the dataset in the `data/` folder.
+2. Run the script in the `src/` folder:
+   ```bash
+   python src/data_analysis.py
